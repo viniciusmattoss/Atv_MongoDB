@@ -1,13 +1,13 @@
 MongoDB
 =======
 
-\======================= Ferramentas ===========================
+\===================== Ferramentas =========================
 ----------------------------------------------------------------
 
 *   MongoDB altas: Para criação do banco de dados e carregamento do arquivo books.json
 *   MongoDB Compass: Realizar consultas do arquivo (books.jsoj) e conectar no MongoDB Altlas.
 
-\========================= PASSOS ============================
+\======================= PASSOS ==========================
 --------------------------------------------------------------
 
 1.  Conectar no MongoDB altlas no MongoDB Compass pela opção "Connect"
@@ -17,5 +17,5 @@ MongoDB
 5.  Usar o MongoSH que esta presente dentro do MongoDB Compass
 6.  Realizar consultas
 
-\===========================================================
+\=======================================================
 ------------------------------------------------------------
